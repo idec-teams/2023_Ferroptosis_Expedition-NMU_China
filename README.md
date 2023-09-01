@@ -4,7 +4,7 @@
 
 这是IDEC2023年的维基存储库,团队:铁下垂探险-中国。
 
- 从这个存储库中创建的wiki在 [ idec-teams.github.io/2023_Ferroptosis_Expedition-NMU_China ] ( https://idec-teams.github.io/2023_Ferroptosis_Expedition-NMU_China ) .
+ 从这个存储库中创建的wi ki在 [ idec-teams.github.io/2023_Ferroptosis_Expedition-NMU_China ] ( https://idec-teams.github.io/2023_Ferroptosis_Expedition-NMU_China ) .
 
  默认的维基布局是由 [ MkDECs ] ( 国内生产总值:// ) 与… [ 用于多用途数据处理系统的材料 ] ( https://squidfunk.github.io/mkdocs-material/ ) 主题。
 
