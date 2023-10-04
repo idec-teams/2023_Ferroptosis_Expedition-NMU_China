@@ -4,7 +4,7 @@
 Cell culture and construction sorafenib-resistant cell line.
 Cells were treated with 2.5 μM sorafenib as the initial concentration, each increase was 0.5μM when the cells tolerated. The final concentration is 7μM and the cells can proliferate normally.Gradually to 0.5 uM drug resistant cell line HepG2 SR can survive in 7uM drug medium for 1 weeks and stable proliferation.
 Next, we used CCK8 assay to detect the IC50 of HepG2 SR and HepG2 WT cells.
-![Alt text](Week1-16-1.jpg)
+![Alt text](documentation\Week1-16-1.jpg)
 
 ## Week 17-20
 RNA sequencing of HepG2 SR and control cells was performed.
