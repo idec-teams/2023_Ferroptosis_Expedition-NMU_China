@@ -9,5 +9,6 @@ Ferroptosis, a form of programmed cell death driven by iron-dependent lipid pero
 In our study, we identified KDELR3 as the critical molecule in HCC sorafenib resistance. Mechanistically, KDELR3 expression increased after sorafenib treatment and inhibit lipid peroxidation and ferroptosis induced by sorafenib, thereby promoting HCC resistance. Our research may provide new targets and strategies for HCC systemic therapy.
 
 ## Results
-__Establishing Sorafenib-resistant Hepatocellular Carcinoma Cell Line__
+__Establishing Sorafenib-resistant Hepatocellular Carcinoma Cell Line__   
+
 In order to identify critical modules associated with sorafenib resistance in hepatocellular carcinoma, a sorafenib-resistant HepG2 cell line was first established. The initial dosage for the cells culture was 2.5μM. About Every two weeks, once the cells have acquired the ability to adapt and proliferated normally, the concentration was increased by 0.5μM. Eventually, when the concentration reached 7μM, the hepatocellular carcinoma cells achieved maximum resistance (Figure 1A). CCK-8 assay was used to assessed, and calculated the half-maximal inhibitory concentration (IC50) of the resistant cells and the wild-type (WT) cells, and result showed that the IC50 of the HepG2 SR cells was significantly higher than that of the control cells, indicating the successful construction of the sorafenib-resistant cell line (Figure 1B).
