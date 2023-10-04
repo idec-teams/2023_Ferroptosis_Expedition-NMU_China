@@ -67,9 +67,9 @@ A junior at Chinese People's Liberation Army Naval Medical University majors in 
 
 ## 19.Xingyu Xiang
 Undergraduate in NMU. Her major is Biotechnology. In this project, she is mainly responsible for production of charts and figures, mind map and wiki. Loving to spend time listening to music and watching movies.She had a nice singing performance at the graduation party.
-![Alt text](<19.XingyuXiang-1.jpeg>)
+![Alt text](<19.XingyuXiang.jpeg>)
 
 ## 20.Rulan Wang
 Undergraduate
 Majoring in eight-year clinical medicine in Naval Medical University，she is responsible for website establishment,data collation and art production.In daily life, she loves Chinese classical or folk dance; in professional studying, she is devoted to medicine. She try to be more and more courageous, hoping to make contributions to the team cooperation.
-![Alt text](<20.RulanWang-1.jpeg>)
+![Alt text](<20.RulanWang.jpeg>)
