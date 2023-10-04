@@ -10,4 +10,71 @@ In our study, we identified KDELR3 as the critical molecule in HCC sorafenib res
 
 ## Results
 __Establishing Sorafenib-resistant Hepatocellular Carcinoma Cell Line__   
-In order to identify critical modules associated with sorafenib resistance in hepatocellular carcinoma, a sorafenib-resistant HepG2 cell line was first established. The initial dosage for the cells culture was 2.5μM. About Every two weeks, once the cells have acquired the ability to adapt and proliferated normally, the concentration was increased by 0.5μM. Eventually, when the concentration reached 7μM, the hepatocellular carcinoma cells achieved maximum resistance (__Figure 1A__). CCK-8 assay was used to assessed, and calculated the half-maximal inhibitory concentration (IC50) of the resistant cells and the wild-type (WT) cells, and result showed that the IC50 of the HepG2 SR cells was significantly higher than that of the control cells, indicating the successful construction of the sorafenib-resistant cell line (__Figure 1B__).
+In order to identify critical modules associated with sorafenib resistance in hepatocellular carcinoma, a sorafenib-resistant HepG2 cell line was first established. The initial dosage for the cells culture was 2.5μM. About Every two weeks, once the cells have acquired the ability to adapt and proliferated normally, the concentration was increased by 0.5μM. Eventually, when the concentration reached 7μM, the hepatocellular carcinoma cells achieved maximum resistance (__Figure 1A__). CCK-8 assay was used to assessed, and calculated the half-maximal inhibitory concentration (IC50) of the resistant cells and the wild-type (WT) cells, and result showed that the IC50 of the HepG2 SR cells was significantly higher than that of the control cells, indicating the successful construction of the sorafenib-resistant cell line (__Figure 1B__).   
+![Alt text](<fig1.jpg>)
+Fig 1. Construction of HepG2 cells sorafenib resistant cell line. 
+(A) The concentration of sorafenib in the HepG2 cell culture medium was gradually increased from 2.5 μM to 7 μM over 6 months to obtain sorafenib resistant cell line. 
+(B) CCK8 assay was performed to evaluate the IC50 of WT and SR HepG2 cells. Data are presented as means ± SD from three independent experiments. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+
+
+__Identification of KDELR3 as A Key Gene Regulating HCC Sorafenib Resistance__
+Next, we performed transcriptome sequencing on the HepG2 SR and WT counterparts. We found that the pathways related to cellular processes, specifically cell death and growth, were significantly enriched (__Figure 2A__). Subsequent KEGG pathway enrichment analysis revealed that differential expressed genes (DEGs) significantly enriched in the ferroptosis pathway (__Figure 2B__). Then, we intersected the upregulated genes in HepG2 SR, the upregulated genes in hepatocellular carcinoma in the TCGA database, and the genes predicted to be associated with sorafenib resistance based on the transcriptome data of liver cancer patients in the TCGA database (__Figure 2D__). Finally, KDELR3 was selected for further experiments (__Figure 2C__).    
+![Alt text](<fig2.jpg>)
+Fig. 2 Screening the key genes regulating sorafenib resistance. 
+(A) Kyoto Encyclopedia of Genes and Genomes (KEGG) analysis of differentially expressed genes between WT and SR HepG2 cells. 
+(B) KEGG pathway enrichment analysis with differential expression genes in WT and SR HepG2 cells. 
+(C) Volcano plot of global gene expression in HepG2 SR cells versus control cells. Upregulated genes are labeled as red dots, whereas downregulated genes are labeled in blue. 
+(D) Venn diagram of overlapping genes between LIHC-UP cohort, predicted sorafenib-associated genes cohort and RNA-sequencing.
+
+
+The TCGA database shows that the expression of KDELR3 is significantly increased in hepatocellular carcinoma, and its high expression is associated with poor prognosis (__Figures 3A and 3B__). Further examination of the expression of KDELR3 in hepatocellular carcinoma samples and adjacent tissues revealed that its expression is indeed significantly increased in tumor tissues (__Figures 3C__). Moreover, with the extension of sorafenib stimulation time, the expression of KDELR3 gradually increased (__Figure 3D__). The above analysis and experimental results indicate that KDELR3 can be induced by sorafenib to increase its expression and promote sorafenib resistance.
+![Alt text](<fig3.jpg>)
+
+Fig. 3 KDELR3 was identified as a key gene regulating sorafenib resistance. 
+(A) Analysis of KDELR3 expression in cancer tissues and normal tissues of patients with HCC based on TCGA database (***P＜0.001). 
+(B) Correlation analysis between KDELR3 expression level and overall survival time in patients with hepatocellular carcinoma (P= 3.832e-05). 
+(C) KDELR3 mRNA expression in hepatocellular carcinoma and normal tissues detected by qRT-PCR. 
+(D) KDELR3 mRNA expression in HepG2 cells treated with sorafenib (5 ng/ml) for indicated hours detected by qRT-PCR. Data are presented as means ± SD from three independent experiments. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+
+
+__KDELR3 Does Not Affect Cell Death, Proliferation, and Migration__
+To explore the mechanism by which KDELR3 functions, we first used siRNA to knock KDELR3 down in HepG2 cells, and efficiency of KDELR3 knocking down was verified by quantitative PCR experiments (__Figures 4A and 4B__). Subsequently, flow cytometry experiments showed that knocking KDELR3 down does not affect cell death and proliferation under normal culture conditions, and scratch assays suggested that KDELR3 does not affect the migration of hepatocellular carcinoma cells (__Figures 4C and 4D__). These experiments demonstrate that knocking KDELR3 down does not affect cell death, proliferation, and migration.
+![Alt text](<fig4.jpg>)
+
+Fig. 4 KDELR3 does not affect the basic biological behaviors of tumor cells. 
+(A) KDELR3 mRNA expression in HepG2 cells transfected with KDELR3 siRNA or control siRNA detected by qRT-PCR. 
+(B) Quantitative data showing the proliferation of HepG2 cells transfected with KDELR3 knockdown or not. (C) Scratch healing rate of HepG2 cells with KDELR3 knockdown or not. 
+(D) Cell death of HepG2 cell with KDELR3 knockdown or not detected by flow cytometry. Data are presented as means ± SD from three independent experiments. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+
+
+__KDELR3 Promotes Resistance by Inhibiting the Ferroptosis Induced by Sorafenib__
+To explore the underlying mechanisms, we constructed the stable HepG2 KDELR3 knockout cell line by CRISPR/Cas9 technology, which was confirmed by Western blot experiments (Figure 5A). Subsequently, transcriptome sequencing and KEGG pathway enrichment analysis were performed on the wild-type (WT) and KDELR3 knockout (KO) cells, and the DEGs were significantly enriched in ferroptosis pathway (Figure 5B). The above analysis indicating that KDELR3 may promotes resistance by regulating ferroptosis pathway. 
+To validate the sequencing results, we pre-treated cells with different programmed cell death (PCD) inhibitors, including the apoptosis inhibitor Z-VAD FMK (ZVAD-1), the necroptosis inhibitor Necrostatin (Nec-1), the pyroptosis inhibitor Z-YVAD FMK (ZYAD-1) and the ferroptosis inhibitors Ferrostatin (Fer-1) and Liproxstatin-1 (Lipro-1), followed by sorafenib treatment and cell death detection (Figure 5C). CCK8 results showed that ferroptosis inhibitors significantly reduced sorafenib-induced cell death, indicating that the main type of programmed cell death caused by sorafenib is ferroptosis. Moreover, pre-treatment with two types of ferroptosis inhibitors could completely restore the cell vitality of KDELR3 KO cells after sorafenib stimulation (compared to the control group DMSO), suggesting that KDELR3 mainly promotes sorafenib resistance in hepatocellular carcinoma cells by inhibiting ferroptosis.
+Lipid peroxidation is a hallmark of ferroptosis. BODIPY™ 581/591 C11 fluorescent dye was used to detect the lipid peroxidation of cell membrane firstly, and the flow cytometry results showed that the lipid peroxidation in the KO group was significantly higher than that in the control group (DMSO) after sorafenib treatment (Figure 5D). At the same time, pretreated with the Lipro-1could fully inhibit the increased lipid peroxidation in the KO group. Consistently, the total lipid peroxidation in KO cells was significantly higher than in control cells after sorafenib treatment (Figure 5E). All these results indicate that KDELR3 promotes resistance by inhibiting sorafenib-induced lipid peroxidation and ferroptosis.
+To further verify the in vivo effect, we subcutaneously inoculated nude mice with WT and KO cells. When the tumor grew to 200mm3, mice were given sorafenib by oral gavage (once every two days) and monitored tumor size every 5 days. Before sorafenib treatment, there was no difference in tumor growth between the two groups (Figure 5F). However, the growth trend of KDELR3 KO tumors significantly slowed down, and the tumor size and weight were significantly smaller than the control group after sorafenib therapy (Figures 5G and 5H). Therefore, KDELR3 deficient tumors are more sensitive to sorafenib.
+![Alt text](<fig5.jpg>)
+
+Fig. 5 KDELR3 promotes sorafenib resistance by inhibiting ferroptosis. 
+(A) Western blotting validation of KDELR3 knockout in HepG2 cells. 
+(B) KEGG pathway enrichment analysis of differential expression genes in WT and KDELR3 KO HepG2 cells. (C) CCK8 assay was performed to evaluate the viability of WT and KDELR3 KO HepG2 cells pretreated with indicated cell death inhibitors and stimulated with sorafenib (***P＜0.001, ****P＜0.0001 ) . 
+(D) Lipid peroxidation of WT and KDELR3 KO HepG2 cells detected by flow cytometry. 
+(E) Detection of LPO in WT and KDELR3 KO HepG2 cells treated with sorafenib or not. F-H Tumor growth curves. 
+(F) Tumor growth curves were made for nude mice inoculated with 1×107 WT or KDELR3 KO HepG2 cells, and tumor growth was monitored with calipers every 5 days (**P＜0.01). 
+(G-H) Tumor volumes and weights were measured at indicated times. Data are presented as means ± SD from three independent experiments. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+
+
+__Combined Use of LNP-KDELR3 Enhances the Efficacy of Sorafenib__
+  The above experiments suggest that KDELLR3 may be a new intervention target to reduce sorafenib resistance. Lipid nanoparticles (LNPs) are excellent non-viral drug delivery materials. We used LNPs to encapsulate KDELR3 siRNA(LNP-KDELR3) (__Figure 6A__) and tested the encapsulation (__Figure 6B__) and interference efficiency. The results showed that LNP-KDELR3 significantly knocked KDELR3 down in hepatocellular carcinoma cells (__Figure 6C__).
+  After pre-treating cells with LNP-KDELR3, we then applied sorafenib stimulation. Compared to the control group, the cell viability in the LNP-KDELR3 group significantly decreased (__Figure 6D__). This result suggests that LNP-KDELR3 can effectively reduce KDELR3 expression and enhance cell sensitivity to sorafenib, providing a new approach and target for the treatment of hepatocellular carcinoma with sorafenib, and may have certain clinical value.
+  ![Alt text](<fig6.jpg>)
+
+  Fig. 6 LNP-KDELR3 promotes the efficacy of sorafenib. 
+(A) Schematic diagram of LNP. 
+(B) Encapsulation rate and size of LNP. 
+(C) KDELR3 mRNA expression in HepG2 cells treated with LNP-KDELR3 or not. 
+(D) CCK8 assay was performed to evaluate the viability of HepG2 cells treated with LNP-KDELR3 or not. Data are presented as means ± SD from three independent experiments. *P < 0.05, **P < 0.01, ***P < 0.001, ****P < 0.0001.
+
+
+
+## __Discussion__
+
