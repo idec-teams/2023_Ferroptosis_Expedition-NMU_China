@@ -1,4 +1,4 @@
-# iDEC 2023 | Ferroptosis Expedition-NMU_China
+# __iDEC 2023 | Ferroptosis Expedition-NMU_China__
 
 ![Alt text](<logo.png>)
 
