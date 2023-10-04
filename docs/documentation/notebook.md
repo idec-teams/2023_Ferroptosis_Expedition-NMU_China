@@ -31,6 +31,7 @@ We knocked down KDELR3 expression by siRNA and examined tumor cell proliferation
 
 ## Week 27-33
 We constructed HepG2 KDELR3 KO cell line by CRISPR/Cas9 technique. During 27-29 week,we constructed KDELR3-Cas9 plasmid. Then we transfected it into HepG2 cell line and performe cell sorting.The monoclones were cultured for two weeks . WB experiment showed that KDELR3 knockout cell line was successfully constructed.
+
 ![Alt text](<Week27-33.jpg>)
 
 ## Week 33-41
