@@ -27,11 +27,11 @@ KDELR3 expression was determined in Cells stimulated with sorafenib. The experim
 ## Week 26-27
 We knocked down KDELR3 expression by siRNA and examined tumor cell proliferation,cell death and migration in HCC cells by using Edu assay, Flow cytometer ,and Scratch assay,. Finally, we analyzed the data and summarized the conclusions.
 ![Alt text](<Week26-27.jpg>)
-![Alt text](<Week26-27-2.jpg>)
+![Alt text](<Week26-27_2.jpg>)
 
 ## Week 27-33
 We constructed HepG2 KDELR3 KO cell line by CRISPR/Cas9 technique. During 27-29 week,we constructed KDELR3-Cas9 plasmid. Then we transfected it into HepG2 cell line and performe cell sorting.The monoclones were cultured for two weeks . WB experiment showed that KDELR3 knockout cell line was successfully constructed.
-![Alt text](<Week 27-33.jpg>)
+![Alt text](<Week27-33.jpg>)
 
 ## Week 33-41
 After HepG2 KDELR3 KO cell line were constructed, WT and KO cells were implanted subcutaneously in nude mice. The tumor was monitored and sorafenib was given when the tumor volume reached 150-200mm3(30mg/kg, oral gavage once every two days). Tumor size was monitored by calipers for every 5 days, and the tumor volumes were calculated using the equation (larger diameter) × (smaller diameter)2/2.
