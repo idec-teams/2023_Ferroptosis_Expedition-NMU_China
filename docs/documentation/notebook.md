@@ -22,11 +22,11 @@ Using TCGA to analysis the overall survival for KDELR3 in LIHC and collecting HC
 
 ## Week25
 KDELR3 expression was determined in Cells stimulated with sorafenib. The experiment was repeated twice.
-![Alt text](<Week25-1.jpg>)
+![Alt text](<Week25.jpg>)
 
 ## Week 26-27
 We knocked down KDELR3 expression by siRNA and examined tumor cell proliferation,cell death and migration in HCC cells by using Edu assay, Flow cytometer ,and Scratch assay,. Finally, we analyzed the data and summarized the conclusions.
-![Alt text](<Week26-27-1.jpg>)
+![Alt text](<Week26-27.jpg>)
 ![Alt text](<Week26-27-2.jpg>)
 
 ## Week 27-33
