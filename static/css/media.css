@@ -31,8 +31,8 @@
 	.header{ display:none!important;}
 	.ind-banner .swiper-slide .bg{ height:4.5rem;}
 	.ind-banner .one{ left: 0.3rem; margin-left: 0; } 
-	.ind-banner .one .txt1{ font-size: 0.56rem; line-height: 0.56rem; padding-bottom: 0.3rem;}
-	.ind-banner .one .txt2{ font-size: 0.28rem; line-height: 0.56rem; width: 6.0rem;}
+	.ind-banner .one .txt1{ font-size: 0.3rem; line-height: 0.35rem; padding-bottom: 0.01rem;}
+	.ind-banner .one .txt2{ font-size: 0.28rem; line-height: 0.4rem; width: 6.0rem;}
 	.ind-banner .two{ left: 0.3rem; margin-left: 0; } 
 	.ind-banner .two .txt1{ font-size: 0.36rem; line-height: 0.36rem; padding-bottom: 0.3rem;}
 	.ind-banner .two .txt1 b{ font-size: 0.56rem;}

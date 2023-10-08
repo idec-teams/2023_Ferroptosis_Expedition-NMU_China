@@ -5,8 +5,8 @@
 .ind-banner .swiper-slide .bg{ height:9.0rem;}
 .ind-banner .swiper-slide .bg img{ width: 100%; }
 .ind-banner .one{ position: absolute; left: 50%; margin-left: -7.68rem; top: 50%; transform: translateY(-50%); } 
-.ind-banner .one .txt1{ font-size: 0.72rem; line-height: 0.72rem; color: #fff; padding-bottom: 0.25rem; font-style: italic; font-weight: bold;}
-.ind-banner .one .txt2{ font-size: 0.36rem; line-height: 0.36rem; color: #fff;}
+.ind-banner .one .txt1{ font-size: 0.35rem; line-height: 0.72rem; color: #000000; padding-bottom: 0.25rem; font-style: italic; font-weight: bold;}
+.ind-banner .one .txt2{ font-size: 0.25rem; line-height: 0.36rem; color: #000000;}
 .ind-banner .two{ position: absolute; left: 50%; margin-left: -7.68rem; top: 50%; transform: translateY(-50%); } 
 .ind-banner .two .txt1{ font-size: 0.48rem; line-height: 0.48rem; color: #fff; padding-bottom: 0.25rem; font-style: italic;}
 .ind-banner .two .txt1 b{ font-size:0.72rem;}
